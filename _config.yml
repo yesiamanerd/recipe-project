@@ -1,6 +1,2 @@
 theme: jekyll-theme-slate
 title: Welcome to yesiamanerd's Recipe Project page
-
-
-CircleCI build status
-[![CircleCI](https://circleci.com/gh/yesiamanerd/recipe-project.svg?style=svg)](https://circleci.com/gh/yesiamanerd/recipe-project)
