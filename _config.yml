@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: Welcome to yesiamanerd's Recipe Project page
 ###CircleCI build status###
-Format: [![CircleCI](https://circleci.com/gh/yesiamanerd/recipe-project.svg?style=svg)](https://circleci.com/gh/yesiamanerd/recipe-project)
+Format: ![CircleCI](https://circleci.com/gh/yesiamanerd/recipe-project.svg?style=svg)
 This page will update you on any new features or updates to the Recipe Application.
 Currently, the application is under development.
 ###Pitest Mutation Coverage report###
